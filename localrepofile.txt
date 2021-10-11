@@ -1,2 +1,13 @@
 name 
 ahmed mohamed
+
+
+steps 
+creat dirctory 
+creat new file 
+git init 
+git add .
+git commit -m "commit new file"
+git branch -M main
+git remote add origin https://github.com/ahmed-elawady/repo1.git
+
